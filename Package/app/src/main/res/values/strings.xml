@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Flashlight</string>
+
+    <string name="turn_on_string">Turn On</string>
+    <string name="turn_off_string">Turn Off</string>
+
+    <string name="recommended_way_string">You can turn the flashlight on by clicking the following button, but recommended way of using this application is to create a widget. By creating a widget, you will get a fast access to this button and you can turn the light on and off anywhere from any screen.</string>
+    <string name="title_string">Flashlight app — created and published by Afzaal Ahmad Zeeshan</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="help_string">Help</string>
+</resources>

@@ -1,2 +1,2 @@
 # Flashlight-App
-Source code for flashlight application of the device. 
+Flashlight application for Android's source code. 
